@@ -1,16 +1,19 @@
-### Hi there 👋
+#Hello
+  ##I'm Neil.
+    ###So much more then just a software engineer.
 
-<!--
-**neil-empey/neil-empey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently work with these...**
+- Javascript
+- Ruby on Rails
+- React/Redux
+- HTML
+- CSS
 
-Here are some ideas to get you started:
+**pursuing my interests in...**
+- Machine Learning(tensorflow)
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####Electric Vehicles, Renewable Energy, and IoT devices are a few things I tinker with,
+  ###when not on a bike or mountaineering.
+
+
