@@ -2,7 +2,7 @@
 
   ##  I'm Neil.
   
-    ### So much more then just a software engineer.
+  **So much more then _just_ a software engineer.**
 
 **Currently work with these...**
 
@@ -12,7 +12,7 @@
 - HTML
 - CSS
 
-**pursuing my interests in...**
+**Pursuing my interests in...**
 
 - Machine Learning(tensorflow)
 - Python
