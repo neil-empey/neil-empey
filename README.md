@@ -2,18 +2,20 @@
 
   ##  I'm Neil.
   
-  **So much more then _just_ a software engineer.**
+  **Judging success as empowering others' to positively affect their lives. Ardent Democracy advocate. Supporter of Ukraine**
 
 **Currently work with these...**
 
 - Javascript
 - Ruby on Rails
 - React/Redux
+- C++/Arduino
 - HTML
 - CSS
 
 **Pursuing my interests in...**
-
+- IoT
+- Renewable Energy
 - Machine Learning(tensorflow)
 - Python
 
