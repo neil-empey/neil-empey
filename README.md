@@ -1,4 +1,4 @@
-# Hello
+# Hey there...
 
   ##  I'm Neil.
   
@@ -7,19 +7,21 @@
 **Currently work with these...**
 
 - Javascript
+- JQuery
 - Ruby on Rails
 - React/Redux
 - C++/Arduino
-- HTML
-- CSS
+- HTML/CSS
+- Python
+- Github Actions
 
 **Pursuing my interests in...**
+- Sustainable developement
 - IoT
 - Renewable Energy
 - Machine Learning(tensorflow)
-- Python
 
-#### Electric Vehicles, Renewable Energy, and IoT devices are a few things I tinker with,
+#### Wilderness & weather inspire me, I repair when I can, replace only as a last resort and tinker with IoT
 
   ### when not on a bike or mountaineering.
 
